@@ -21,7 +21,7 @@ Enabled-GUI: true
 Enabled-signs: true
 
 
-#Shop-Command, this command will open In-Game shop. Warning: Must start with "/<command>"
+#Shop-Command, this fetch will open In-Game shop. Warning: Must start with "/<fetch>"
 Shop-Command: /shop
 
 
